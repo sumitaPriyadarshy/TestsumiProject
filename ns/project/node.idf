@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project</value>
+  <value name="node_pkg">TestsumiProject</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Sumita.Priyadarshy@ibm.com</value>
+    <value name="createdDate">2026-07-28T14:18:27.857707963Z</value>
+    <value name="modifiedBy">Sumita.Priyadarshy@ibm.com</value>
+    <value name="lastModifiedDate">2026-07-28T14:18:27.857707963Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
