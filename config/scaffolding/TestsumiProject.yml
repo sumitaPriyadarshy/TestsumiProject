@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestsumiProject
+  gitServerName: sumi_account
+  gitUrl: https://github.com/sumitaPriyadarshy
+  gitUsername: sumitaPriyadarshy
+  gitBranch: main
